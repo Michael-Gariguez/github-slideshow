@@ -2,5 +2,5 @@
 layout: slide
 title: "welcome to our second slide!"
 ---
-Your text
+Slime Love All the Time!
 Use the left arrow to go back!
